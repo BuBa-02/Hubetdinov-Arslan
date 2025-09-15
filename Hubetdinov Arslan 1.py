@@ -1,4 +1,5 @@
 def main():
-    print("Hubetdinov Arslan")
+    print("Хубетдинов Арслан")
+    print("Группа: ИВТ-ИСУ-202Б; 1-ая подгруппа")
 if __name__ == '__main__':
     main()
